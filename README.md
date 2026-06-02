@@ -23,3 +23,10 @@ The goal is to create a function named `calculate()` in `mean_var_std.py` that o
 * If a list containing fewer or more than 9 elements is passed, the function raises a `ValueError` exception with the message: `"List must contain nine numbers."`.
 
 ---
+## Project Structure
+
+```text
+├── main.py          # Code runner and entry point for verification
+├── mean_var_std.py  # Core solution containing the calculation algorithm
+├── test_module.py   # Unit test suite provided by freeCodeCamp
+└── README.md        # Documentation
