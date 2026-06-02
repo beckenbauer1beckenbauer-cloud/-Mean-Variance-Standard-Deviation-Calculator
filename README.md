@@ -35,6 +35,13 @@ The goal is to create a function named `calculate()` in `mean_var_std.py` that o
 
 ---
 
+## Local Verification & Usage
+
+To run the script and execute the automated test module locally, run the following command in your terminal:
+
+```bash
+python3 main.py
+
 # Part 2: Professional Presentation (Slide-by-Slide)
 
 This structured layout can be used for a technical showcase slide deck, or written down directly as a formal design report.
