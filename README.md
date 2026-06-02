@@ -32,10 +32,6 @@ The goal is to create a function named `calculate()` in `mean_var_std.py` that o
 ├── test_module.py   # Unit test suite provided by freeCodeCamp
 └── README.md        # Documentation
 
-##
-<img width="822" height="461" alt="image" src="https://github.com/user-attachments/assets/455f933b-a6b8-4d90-86b9-7b973d96389a" />
-
-
 
 ---
 
