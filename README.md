@@ -31,9 +31,4 @@ The goal is to create a function named `calculate()` in `mean_var_std.py` that o
 ├── test_module.py   # Unit test suite provided by freeCodeCamp
 └── README.md        # Documentation
 
-## <span style="font-weight: normal;">Local Verification & Usage</span>
 
-To run the script and execute the automated test module locally, run the following command in your terminal:
-
-```bash
-python3 main.py
