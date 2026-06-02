@@ -78,7 +78,7 @@ calculate([0, 1, 2, 3, 4, 5, 6, 7, 8])
 
 ---
 
-## Slide 3: Visualizing the Data Transformation
+## Slide 3: Illustrating the Data Transformation
 ### The Conceptual Workflow
 
 Below is the structured data pipeline showing how a 1D sequence transforms step-by-step into structural calculations.
